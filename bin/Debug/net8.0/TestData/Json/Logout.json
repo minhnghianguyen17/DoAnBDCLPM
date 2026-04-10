@@ -1,0 +1,17 @@
+﻿[
+  {
+    "LoID": 0,
+    "Email": "nghia@gmail.com",
+    "Password": "123"
+  },
+  {
+    "LoID": 1,
+    "Email": "nghia1@gmail.com",
+    "Password": "123"
+  },
+  {
+    "LoID": 2,
+    "Email": "test@gmail.com",
+    "Password": "123456"
+  }
+]

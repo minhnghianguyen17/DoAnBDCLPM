@@ -1,0 +1,24 @@
+[
+  {
+    "ID": 101,
+    "BannerText": "Coffee Shop ",
+    "Products": [ "Bánh dâu" ],
+    "SearchProduct": ""
+  },
+  {
+    "ID": 102,
+    "BannerText": "Cửa hàng",
+    "Products": [
+      "Americano Đá",
+      "Americano nóng",
+      "Cà phê đen đá"
+    ],
+    "SearchProduct": ""
+  },
+  {
+    "ID": 103,
+    "BannerText": "",
+    "Products": [],
+    "SearchProduct": "NavigateHome"
+  }
+]

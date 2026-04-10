@@ -1,0 +1,142 @@
+﻿[
+  {
+    "accId": 0,
+    "fullName": "Nguyễn Minh Nghĩa Test",
+    "email": "nghiatest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "0912345678",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 1,
+    "fullName": "Nguyễn Văn A",
+    "email": "nguyenvana123@gmail.com",
+    "gender": 1,
+    "role": 1,
+    "phoneNumber": "0912345678",
+    "address": "456 Đường Pasteur, TPHCM",
+    "isActive": 1
+  },
+  {
+    "accId": 2,
+    "fullName": "Phạm Thị B",
+    "email": "phamthib@gmail.com",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0912345680",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 3,
+    "fullName": "Phạm Thị C",
+    "email": "phamthic@gmail.com",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 4,
+    "fullName": "",
+    "email": "phamthid@gmail.com",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 5,
+    "fullName": " ",
+    "email": "phamthie@gmail.com",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 6,
+    "fullName": "Nguyễn Văn E",
+    "email": " ",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 7,
+    "fullName": "Nguyễn Văn F",
+    "email": "nguyenvanf@gmail.com",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 8,
+    "fullName": "Nguyễn Văn G",
+    "email": "",
+    "gender": 0,
+    "role": 3,
+    "phoneNumber": "0932345678",
+    "address": "789 Đường Láng, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 9,
+    "fullName": "Nguyễn Minh Nghĩa Test",
+    "email": "nghiatest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "0912345678",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 10,
+    "fullName": "Nguyễn Minh Nghĩa Test",
+    "email": "nghiatest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "0912345678",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 11,
+    "fullName": "khtest",
+    "email": "khtest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "1234567890",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 12,
+    "fullName": "nvtest",
+    "email": "nvtest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "0987654321",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  },
+  {
+    "accId": 13,
+    "fullName": "qlytest",
+    "email": "qlytest@gmail.com",
+    "gender": 0,
+    "role": 1,
+    "phoneNumber": "0978567321",
+    "address": "123 Đường Nguyễn Huệ, Hà Nội",
+    "isActive": 1
+  }
+]

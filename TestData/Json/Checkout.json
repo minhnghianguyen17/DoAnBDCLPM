@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 29,
+    "FullName": "Nguyễn Văn A",
+    "Phone": "",
+    "Address": "828 Sư Vạn Hạnh"
+  },
+  {
+    "ID": 30,
+    "FullName": "Nguyễn Văn A",
+    "Phone": "1234",
+    "Address": "828 Sư Vạn Hạnh"
+  },
+  {
+    "ID": 31,
+    "FullName": "",
+    "Phone": "0987654321",
+    "Address": "828 Sư Vạn Hạnh"
+  },
+  {
+    "ID": 40,
+    "FullName": "Nguyễn Văn A",
+    "Phone": "0987654321",
+    "Address": ""
+  },
+  {
+    "ID": 45,
+    "FullName": "Nguyễn Văn A",
+    "Phone": "0987654321",
+    "Address": "828 Sư Vạn Hạnh"
+  },
+  {
+    "ID": 48,
+    "FullName": "Nguyễn Văn A",
+    "Phone": "0987654321",
+    "Address": "828 Sư Vạn Hạnh"
+  }
+]

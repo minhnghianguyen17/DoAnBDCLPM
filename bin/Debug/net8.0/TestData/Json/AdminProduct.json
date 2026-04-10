@@ -1,0 +1,131 @@
+﻿{
+  "ProductTypes": [
+    {
+      "productTypeId": 1,
+      "productTypeCode": "CF",
+      "productTypeName": "Cà phê",
+      "isActive": 1
+    },
+    {
+      "productTypeId": 2,
+      "productTypeCode": "TS",
+      "productTypeName": "Trà sữa",
+      "isActive": 1
+    }
+  ],
+
+  "Sizes": [
+    {
+      "sizeId": 1,
+      "sizeCode": "S",
+      "sizeName": "Nhỏ",
+      "isActive": 1
+    },
+    {
+      "sizeId": 2,
+      "sizeCode": "M",
+      "sizeName": "Vừa",
+      "isActive": 1
+    },
+    {
+      "sizeId": 3,
+      "sizeCode": "L",
+      "sizeName": "Lớn",
+      "isActive": 1
+    }
+  ],
+
+  "Toppings": [
+    {
+      "toppingId": 1,
+      "toppingCode": "TP1",
+      "toppingName": "Sốt Caramel",
+      "price": 10000,
+      "isActive": 1
+    },
+    {
+      "toppingId": 2,
+      "toppingCode": "TP2",
+      "toppingName": "Đào miếng",
+      "price": 10000,
+      "isActive": 1
+    },
+    {
+      "toppingId": 3,
+      "toppingCode": "TP3",
+      "toppingName": "Trân châu trắng",
+      "price": 10000,
+      "isActive": 1
+    },
+    {
+      "toppingId": 4,
+      "toppingCode": "TP4",
+      "toppingName": "Shot Expresso",
+      "price": 15000,
+      "isActive": 1
+    }
+  ],
+
+  "AdminProducts": [
+    {
+      "productCode": "HKTEST001",
+      "productName": "Cà phê Muối",
+      "productTypeId": 1,
+      "note": "Sản phẩm test cho TC2",
+      "isActive": 1,
+
+      "price": {
+        "sizeId": 1,
+        "priceValue": 25000,
+        "unit": "VNĐ"
+      },
+
+      "toppings": [
+        "Sốt Caramel"
+      ]
+    },
+    {
+      "productCode": "HKTEST002",
+      "productName": "Trà sữa trân châu Test",
+      "productTypeId": 2,
+      "note": "Sản phẩm test cho TC3",
+      "isActive": 1,
+
+      "price": {
+        "sizeId": 2,
+        "priceValue": 30000,
+        "unit": "VNĐ"
+      },
+
+      "toppings": [
+        "Trân châu trắng",
+        "Đào miếng"
+      ]
+    }
+  ],
+
+  "AdminProductsForEdit": [
+    {
+      "originalProductCode": "HKTEST001",
+      "originalProductName": "Cà phê Muối",
+      "editedProductName": "Cà phê Muối Test Premium",
+      "editedNote": "Sản phẩm đã được cải tiến với chất lượng cao",
+      "editedProductTypeId": 1,
+      "editedSizeId": 2,
+      "editedPrice": 35000,
+      "editedTopping": "Shot Expresso",
+      "originalTopping": "Sốt Caramel"
+    },
+    {
+      "originalProductCode": "HKTEST002",
+      "originalProductName": "Trà sữa trân châu Test",
+      "editedProductName": "Trà sữa trân châu Test Deluxe",
+      "editedNote": "Bản nâng cấp với topping bổ sung",
+      "editedProductTypeId": 2,
+      "editedSizeId": 3,
+      "editedPrice": 45000,
+      "editedTopping": "Trân châu trắng",
+      "originalTopping": "Đào miếng"
+    }
+  ]
+}

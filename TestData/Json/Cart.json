@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "ProductName": "Bánh Dâu",
+    "Quantity": 1,
+    "Price": "25,000 VND"
+  },
+  {
+    "ID": 2,
+    "ProductName": "Bánh Dâu",
+    "Quantity": 3,
+    "Price": "25,000 VND"
+  },
+  {
+    "ID": 3,
+    "ProductName": "Bánh Dâu",
+    "Quantity": 2,
+    "Price": "25,000 VND"
+  },
+  {
+    "ID": 4,
+    "ProductName": "Bánh Dâu",
+    "Quantity": 50,
+    "Price": "25,000 VND"
+  },
+  {
+    "ID": 5,
+    "ProductName": "Americano nóng",
+    "Quantity": 1,
+    "Price": "30,000 VND"
+  },
+  {
+    "ID": 6,
+    "ProductName": "Cà phê đen đá",
+    "Quantity": 1,
+    "Price": "35,000 VND"
+  },
+  {
+    "ID": 7,
+    "ProductName": "Cà Phê Sữa Hạnh Nhân Kem Cheese",
+    "Quantity": 1,
+    "Price": "30,000 VND"
+  }
+]

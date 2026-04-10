@@ -1,0 +1,98 @@
+﻿[
+  {
+    "reId": 1,
+    "fullName": "Nguyễn Minh Nghĩa",
+    "email": "nguyenminhnghia@gmail.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 2,
+    "fullName": "Trần Thị B",
+    "email": "user@example.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 3,
+    "fullName": "Lê Văn C",
+    "email": "levanc@example.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@456",
+    "agreeTerms": true
+  },
+  {
+    "reId": 4,
+    "fullName": "",
+    "email": "test004@example.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 5,
+    "fullName": "Phạm Thị D",
+    "email": "",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 6,
+    "fullName": "Hoàng Văn E",
+    "email": "test006@example.com",
+    "password": "   ",
+    "confirmPassword": "   ",
+    "agreeTerms": true
+  },
+  {
+    "reId": 7,
+    "fullName": "Đỗ Văn F",
+    "email": "test007@example.coml",
+    "password": "Password@123",
+    "confirmPassword": "",
+    "agreeTerms": true
+  },
+  {
+    "reId": 8,
+    "fullName": "Vũ Thị G",
+    "email": "test008@example.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": false
+  },
+  {
+    "reId": 9,
+    "fullName": "Nguyễn Văn E",
+    "email": "test009example.com",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 10,
+    "fullName": "Kỳ Văn H",
+    "email": "test010@example.com",
+    "password": "123",
+    "confirmPassword": "123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 11,
+    "fullName": "Trương Văn I",
+    "email": " test011@example.com ",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  },
+  {
+    "reId": 12,
+    "fullName": "Bùi Văn J",
+    "email": "TEST012@EXAMPLE.COM",
+    "password": "Password@123",
+    "confirmPassword": "Password@123",
+    "agreeTerms": true
+  }
+]

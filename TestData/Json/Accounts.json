@@ -1,0 +1,134 @@
+﻿[
+  {
+    "ID": 0,
+    "Email": "nghia@gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Admin",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 1,
+    "Email": "testuser1@example.com",
+    "Password": "Password123!",
+    "Role": 1,
+    "FullName": "Nguyễn Văn Test",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 2,
+    "Email": "nghia1@gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 3,
+    "Email": "nghia1@gmail.com",
+    "Password": "1234",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 4,
+    "Email": "nghia123@gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 5,
+    "Email": "",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 6,
+    "Email": "nghia1@gmail.com",
+    "Password": "",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 7,
+    "Email": "nghia1@gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 8,
+    "Email": "Nghia1gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 9,
+    "Email": "Nghi a1gmail.com",
+    "Password": "123",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 10,
+    "Email": "nghia1@gmail.com",
+    "Password": "1 23",
+    "Role": 1,
+    "FullName": "Nguyễn Minh Nghĩa",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  },
+  {
+    "ID": 11,
+    "Email": "test@gmail.com",
+    "Password": "123456",
+    "Role": 1,
+    "FullName": "QL003",
+    "Gender": 1,
+    "PhoneNumber": "0912345678",
+    "IsActive": 1,
+    "IsDelete": false
+  }
+]

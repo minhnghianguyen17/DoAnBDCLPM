@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "Name": "Bánh dâu",
+      "Category": "Bánh",
+      "Image": "banhdau.jpg",
+      "BasePrice": 30000,
+      "Quantity": 1,
+      "Sizes": null
+    },
+    {
+      "ID": 1,
+      "Name": "Bánh dâu",
+      "Category": "Bánh",
+      "Image": "banhdau.jpg",
+      "BasePrice": 30000,
+      "Quantity": 3,
+      "Sizes": null
+    },
+    {
+      "ID": 1,
+      "Name": "Bánh dâu",
+      "Category": "Bánh",
+      "Image": "banhdau.jpg",
+      "BasePrice": 30000,
+      "Quantity": 2,
+      "Sizes": null
+    },
+    {
+      "ID": 1,
+      "Name": "Bánh dâu",
+      "Category": "Bánh",
+      "Image": "banhdau.jpg",
+      "BasePrice": 30000,
+      "Quantity": 50,
+      "Sizes": null
+    },
+
+    {
+      "ID": 2,
+      "Name": "Americano đá",
+      "Category": "Coffee",
+      "Image": "americano_da.jpg",
+      "BasePrice": null,
+      "Quantity": 1,
+      "Sizes": [
+        {
+          "Size": "M",
+          "Price": 30000
+        },
+        {
+          "Size": "L",
+          "Price": 35000
+        },
+        {
+          "Size": "XL",
+          "Price": 40000
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Name": "Americano đá",
+      "Category": "Coffee",
+      "Image": "americano_da.jpg",
+      "BasePrice": null,
+      "Quantity": 2,
+      "Sizes": [
+        {
+          "Size": "M",
+          "Price": 30000
+        },
+        {
+          "Size": "L",
+          "Price": 35000
+        },
+        {
+          "Size": "XL",
+          "Price": 40000
+        }
+      ]
+    },
+
+    {
+      "ID": 3,
+      "Name": "Americano nóng",
+      "Category": "Coffee",
+      "Image": "americano_nong.jpg",
+      "BasePrice": null,
+      "Quantity": 1,
+      "Sizes": [
+        {
+          "Size": "M",
+          "Price": 28000
+        },
+        {
+          "Size": "L",
+          "Price": 33000
+        },
+        {
+          "Size": "XL",
+          "Price": 38000
+        }
+      ]
+    },
+    
+
+    {
+      "ID": 4,
+      "Name": "Cà phê đen đá",
+      "Category": "Coffee",
+      "Image": "caphe_den_da.jpg",
+      "BasePrice": null,
+      "Quantity": 1,
+      "Sizes": [
+        {
+          "Size": "M",
+          "Price": 25000
+        },
+        {
+          "Size": "L",
+          "Price": 30000
+        },
+        {
+          "Size": "XL",
+          "Price": 35000
+        
+  
+  ]
+}

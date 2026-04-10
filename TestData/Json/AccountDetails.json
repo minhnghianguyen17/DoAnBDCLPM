@@ -1,0 +1,38 @@
+[
+  {
+    "accountDetailsId": 1,
+    "fullName": "Nguyen Van B",
+    "phoneNumber": "0987654321",
+    "address": "828 Su Van Hanh"
+  },
+  {
+    "accountDetailsId": 2,
+    "fullName": "",
+    "phoneNumber": "0987654321",
+    "address": "828 Su Van Hanh"
+  },
+  {
+    "accountDetailsId": 3,
+    "fullName": "Nguyen Van B",
+    "phoneNumber": "",
+    "address": "828 Su Van Hanh"
+  },
+  {
+    "accountDetailsId": 4,
+    "fullName": "Nguyen Van B",
+    "phoneNumber": "0987654321",
+    "address": ""
+  },
+  {
+    "accountDetailsId": 5,
+    "oldPassword": "123",
+    "newPassword": "1234",
+    "confirmPassword": "1234"
+  },
+  {
+    "accountDetailsId": 6,
+    "oldPassword": "1234",
+    "newPassword": "1234",
+    "confirmPassword": "1234"
+  }
+]
